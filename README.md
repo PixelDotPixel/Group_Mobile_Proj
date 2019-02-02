@@ -2,33 +2,33 @@
 
 Note: Feel free to make/suggest changes as needed
 
-Prerequisites
+## Prerequisites
 
-Android Studio
-Android SDK
-https://developer.android.com/studio/
+- Android Studio
+- Android SDK
+- https://developer.android.com/studio/
 
-Setup
+## Setup
 
-Fork the Repository
-Clone the Repository
-Open Android Studio
-Open Project PathToProject/Grop_Mobile_Proj/Karate
-Build
-Run
-Success
+- Fork the Repository
+- Clone the Repository
+- Open Android Studio
+- Open Project PathToProject/Grop_Mobile_Proj/Karate
+- Build
+- Run
+- Success
 
 Note: Android Studio has a version control management system. I have not tried to set it up. If you want to set it up please add the directions to the README.
 
-Development Process
+## Development Process
 
-Make sure your repository is up to date.
-Make changes.
-Commit often.
-Push.
-Make pull request.
+- Make sure your repository is up to date.
+- Make changes.
+- Commit often.
+- Push.
+- Make pull request.
 
-Resources
+## Resources
 
 The Project_UML.xml file contains the UML diagram for this project.
 We are using Visual Paradigm's online tool to edit the diagram. 
